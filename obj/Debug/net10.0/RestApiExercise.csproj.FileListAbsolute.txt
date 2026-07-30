@@ -34,3 +34,4 @@ C:\Users\conhsup\Desktop\rest-api-exercise\RestApiExercise\obj\Debug\net10.0\ref
 C:\Users\conhsup\Desktop\rest-api-exercise\RestApiExercise\obj\Debug\net10.0\RestApiExercise.pdb
 C:\Users\conhsup\Desktop\rest-api-exercise\RestApiExercise\obj\Debug\net10.0\RestApiExercise.genruntimeconfig.cache
 C:\Users\conhsup\Desktop\rest-api-exercise\RestApiExercise\obj\Debug\net10.0\ref\RestApiExercise.dll
+C:\Users\conhsup\Desktop\rest-api-exercise\RestApiExercise\obj\Debug\net10.0\RestApiExercise.sourcelink.json
